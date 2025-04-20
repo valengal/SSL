@@ -1,3 +1,6 @@
-Compilador seleccionado: GCC – GNU Compiler Collection
-Versión: 14.2.0
-Versión de C que el compilador compila: C23
+Sintaxis y Semántica de los Lenguajes
+Curso: K2151
+Año: 2025
+Legajo: 222.327-2
+Apellido: Galian
+Nombre: Rosario Valentina
